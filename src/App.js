@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         "Now"
-        
+
         </header>
         <p className="App-intro">
           In React apps, we write JSX - it looks like HTML, and uses a lot of HTML syntax.
